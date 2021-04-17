@@ -1,0 +1,19 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+
+ .required , .validation-text {
+    color: red;
+ }
+
+input {
+    width: 30%;
+}
+input[type=file] {
+    width: 50%;
+}
+.full-width {
+     width: 75% !important;
+ }
+
+ 
